@@ -1,2 +1,2 @@
-# Bullet-
-Bullet here bullet there look a bullet in the wall
+# p5.play-boilerplate
+Boiler plate for p5.play
